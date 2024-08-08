@@ -58,6 +58,10 @@ main .header {
     font-weight: 300;
 }
 
+.headerRight ul li {
+    cursor: pointer;
+}    
+
 .headerBtn1 {
     padding: 11px 29px;
     background-color: #366DB7;
